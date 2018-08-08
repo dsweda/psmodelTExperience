@@ -147,13 +147,7 @@
         {
      	 "key":"hac.webroot",
      	 "value":"/hac"
-    	},
-      
-        {
-            "key": "tomcat.generaloptions",
-            "value": null
-           
-        }
+    	}
     ],
    "aspects": [
          {
