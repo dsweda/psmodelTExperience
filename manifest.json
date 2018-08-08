@@ -21,6 +21,26 @@
         {
             "key": "test.property.2",
             "value": "test.property.2.value"
+        },
+      
+        {
+            "key": "googleApiKey",
+            "value":
+        },
+      
+        {
+            "key": "tomcat.generaloptions",
+            "value": "null"
+        },
+      
+        {
+            "key": "standalone.javaoptions",
+            "value": null
+        },
+      
+        {
+            "key": "license.sap.sapsystem",
+            "value": "HYB"
         }
     ],
    "project": "ps_cc2v1",
