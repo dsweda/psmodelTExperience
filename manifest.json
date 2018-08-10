@@ -146,11 +146,11 @@
         },
       {
          "key": "tomcat.generaloptions",
-            "value": "null"
+            "value": null
       },
       {
          "key":"standalone.javaoptions",
-         "value":"null"
+         "value":null
       },
         {
      	 "key":"hac.webroot",
