@@ -145,12 +145,12 @@
             "persona": "production"
         },
       {
-         "key": "tomcat.generaloptions",
-            "value": null
+         "key":"tomcat.generaloptions",
+         "value": ""
       },
       {
          "key":"standalone.javaoptions",
-         "value":null
+         "value": ""
       },
         {
      	 "key":"hac.webroot",
